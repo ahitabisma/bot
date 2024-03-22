@@ -12,4 +12,4 @@ Use `git clone` the repo down to your local so you have the Node project on your
 
 Run `npm install` in order to install the following npm package dependencies as specified in the `package.json`
 
-The application will start by running `npm run start` in the command line.
+The application will start by running `npm run bot` in the command line.
